@@ -1,0 +1,146 @@
+.teamMember-layout1 {
+    width: 100%;
+    min-height: 1500px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+      flex-wrap: wrap; 
+    gap:70px;
+}
+.teamMember-layout2 {
+    width: 100%;
+    min-height: 333px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 22px;
+    box-sizing: border-box; 
+        flex-wrap: wrap; 
+}
+
+
+.teamMember-layout4 {
+    width:306px;
+    min-height: 416px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     justify-content: center;
+    box-sizing: border-box; 
+     flex-wrap: wrap; 
+}
+
+.teamMember-layout5{
+    
+width:100%;
+height: 322.77px;
+
+}
+.teamMember-layout6{
+   width:100%;
+height: 92.39px;
+ box-shadow: 0px 10px 60px 0px #0000000D;
+   display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+.teamMember-layout10{
+width:100%;
+height: 29px;
+}
+.teamMember-layout11{
+ width:100%;
+height: 26px;
+}
+.member-content1{
+font-family: 'Red Hat Display', sans-serif;
+font-size: 22px;
+font-weight: 800;
+line-height: 26.4px;
+text-align: center;
+color: #00224F;
+}
+.member-content2{
+font-family: 'Red Hat Display', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+color: #54515A;
+}
+.member-content3{
+font-family: 'Red Hat Display', sans-serif;
+font-weight: 800;
+line-height: 26.4px;
+text-align: center;
+font-size: 13.21px;
+color: #00224F;
+}
+.member-content4{
+font-family: 'Red Hat Display', sans-serif;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+font-size: 9.6px;
+color: #54515A;
+}
+.teamMember-layout12{
+width:100%;
+height: 17.41px;
+}
+.teamMember-layout13{
+ width:100%;
+height: 15.61px;
+}
+.teamMember-layout3 {
+    max-width: 1165px;
+    width:100%;
+    min-height: 815px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 12px; 
+    align-items: center; 
+     justify-content: center;
+}
+.teamMember-layout7{
+    width: 183.69px;
+height: 250px;
+}
+.teamMember-layout8{
+width:100%;
+height: 193.76px;
+}
+.teamMember-layout9{
+width:100%;
+box-shadow: 0px 6px 36.02px 0px #0000000D;
+height: 55.46px;
+background: #FFFFFF;
+}
+.memberTeam{
+    width:100%;
+    height:100%;
+}
+@media(max-width:1162px)
+{
+    .teamMember-layout3 {
+    margin-bottom: 5%;
+}
+.teamMember-layout2 {
+  margin-top:5%;
+}
+}
+@media(max-width:630px)
+{
+    .teamMember-layout3 {
+    margin-bottom: 8%;
+}
+.teamMember-layout2 {
+  margin-top:8%;
+}
+}

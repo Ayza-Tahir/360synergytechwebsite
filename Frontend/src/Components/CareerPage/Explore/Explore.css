@@ -1,0 +1,363 @@
+.explore-layout1 {
+    width: 100%;
+    min-height: 1050px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+.explore-layout2 {
+    width:100%;
+    max-width: 103px;
+    height: 28px;
+    margin-top:-1%;
+}
+.explore-content1{
+    color: #03228F;
+font-family: 'Poppins', sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+}
+.explore-layout3 {
+    width:100%;
+    max-width: 392px;
+    height: 51px;
+}
+.explore-content2{
+   font-family: 'Poppins', sans-serif;
+font-size: 36px;
+font-weight: 700;
+line-height: 50.4px;
+text-align: center;
+color: #0A0A0A;
+}
+.explore-layout4 {
+    max-width: 90px;
+    width:80%;
+    height: 5px;
+    border-radius: 30px;
+   background: #051D71;
+}
+
+.explore-layout5 {
+    width:100%;
+    max-width: 1300px;
+    min-height: 670px;
+    height:auto;
+    margin-top: 3%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 25px; 
+}
+
+.explore-layout6 {
+    max-width: 620px;
+    width: 80%;
+    height: 202.03px;
+    border-radius: 5px;
+    background: #FFFFFF;
+
+    display: flex; 
+   gap:30px;
+    align-items: center; 
+    border: 1px solid #1D17291A
+}
+.explore-layout7 {
+  height: 100%;
+  width: 380px;
+  display: flex; 
+  flex-direction: column; 
+   align-items: center;
+   justify-content: center;
+   gap:8px;
+}
+.explore-layout9{
+width:100%;
+height: 30px;
+}
+.explore-content3{
+   font-family: 'Catamaran', sans-serif;
+font-size: 24px;
+font-weight: 800;
+line-height: 29.04px;
+text-align: left;
+color: #1D1729;
+  margin-left:37px; 
+}
+.explore-layout10{
+  width:100%; 
+  height:24px;  
+}
+.explore-content4{
+    font-family: 'Catamaran', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+ color: #6C6A72;
+margin-left:37px;
+margin-right:9px;
+}
+.explore-content5{
+   font-family: 'Catamaran', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+ color:black;
+}
+.explore-content6{
+    font-family: 'Catamaran', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+ color: #6C6A72;
+margin-left:4px;
+margin-right:4px;
+}
+.explore-content7{
+   font-family: 'Catamaran', sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #FF6809;
+}
+.explore-layout11{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 35px;
+    gap:10px;
+    align-items: center;
+   margin-top: 8px;
+   justify-content: center;
+}
+
+.explore-layout12{
+max-width: 71.42px;
+ width: 20%;
+height: 30px;
+   background: #FF6809;
+    display: flex;
+  justify-content: center; 
+  align-items: center; 
+   padding-top:15px;
+}
+.explore-content8{
+    color: #FFFFFF;
+  font-family: 'Catamaran', sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 14px;
+text-align: center;
+}
+.explore-layout13{
+   max-width: 93.25px;
+    width: 26%;
+height: 34px;
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  gap: 5px;
+  background: #EFEAFD;
+}
+.explore11-layout1{
+width: 14px;
+height: 16px;
+padding-bottom: 2px;
+}
+.explore-content9{
+color: #0162CA;
+ font-family: 'Catamaran', sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 14px;
+text-align: center;
+ padding-top:15px;
+}
+.explore-layout14{
+  max-width: 123.69px;
+  width: 34%;
+height: 34px;
+    display: flex;
+  align-items: center; 
+  justify-content: center;
+  gap: 5px;
+  background: #EFEAFD;
+}
+.explore12-layout1{
+width: 15px;
+height: 16px;
+padding-bottom: 2px;
+}
+.explore-content10{
+color: #0162CA;
+ font-family: 'Catamaran', sans-serif;
+font-size: 14px;
+font-weight: 400;
+line-height: 14px;
+text-align: center;
+ padding-top:15px;
+}
+
+.explore-layout8{
+   height:100%; 
+   width:188px;
+    display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+.explore-layout15 {
+  width: 100%; 
+  height: 62px; 
+  border-radius: 3px; 
+  margin-top: 10px; 
+}
+
+.explore-button {
+  width: 100%; 
+  height: 100%; 
+  color: #FFFFFF;
+  font-family: 'Poppins', sans-serif; 
+  font-size: 16px; 
+  font-weight: 500; 
+  line-height: 16px;
+  text-align: center; 
+  box-shadow: 0px 28px 50px 0px transparent; 
+  background: linear-gradient(112.11deg, #03228F 0%, #0B70E1 77%); 
+  border: none; 
+  cursor: pointer; 
+  border-radius: 3px; 
+  outline: none; 
+}
+.explore-button:focus {
+  outline: 2px solid #0B70E1; 
+}
+
+@media(max-width:1265px)
+{
+  .explore-layout2 {
+    margin-top:4%;
+} 
+
+.explore-layout5 {
+   margin-bottom: 7%;
+}
+}
+@media(max-width:762px)
+{
+  
+.explore-layout6 {
+    max-width: 620px;
+    width: 90%;
+}
+}
+@media(max-width:677px)
+{
+  
+.explore-layout6 {
+    width: 100%;
+}
+}
+@media(max-width:653px)
+{
+   .explore-layout6 {
+    width: 70%;
+    min-height: 202.03px;
+    height:auto;
+      display: flex; 
+        flex-direction: column; 
+        align-items: center; 
+        gap:8px;
+   }
+   .explore-layout9{
+margin-top:3%;
+}
+.explore-layout8{
+  margin-bottom: 3%;
+}
+}
+@media(max-width:570px)
+{
+   .explore-layout6 {
+    width: 80%;
+   
+   }
+}
+@media(max-width:475px)
+{
+   .explore-layout6 {
+    width: 90%;
+   
+   }
+}
+@media(max-width:425px)
+{
+    .explore-content2{
+font-size: 32px;
+}
+}
+@media(max-width:390px)
+{
+   .explore-layout6 {
+    width: 95%;
+   
+   }
+   .explore-layout7 {
+ width:100%;
+ 
+}
+}
+@media(max-width:373px)
+{
+.explore-layout8{
+   height:90%; 
+   width:170px;
+}
+.explore-layout12{
+
+ width: 17%;
+
+   padding-top:15px;
+}
+.explore-content8{
+
+font-size: 12px;
+}
+.explore-layout13{
+    width: 27%;
+}
+.explore-content9{
+font-size: 12px;
+}
+.explore-layout14{
+  width: 40%;
+}.explore-content10{
+font-size: 12px;
+}
+.explore-content3{
+font-size: 22px;
+
+}
+.explore-layout9{
+margin-left:4%;
+}.explore-layout10{
+ margin-left:4%;
+}
+    .explore-content2{
+font-size: 28px;
+}
+.explore-layout7 {
+ width:100%;
+ 
+}
+}

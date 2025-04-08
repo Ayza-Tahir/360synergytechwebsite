@@ -1,0 +1,48 @@
+.stake-layout1{
+    width:100%;
+    min-height:900px ;
+    height:auto;
+    background-color: aqua;
+     /* background-color:transparent; */
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.stake-layout2{
+width:50%;
+height:800px;
+ background-color: rgb(179, 255, 0);
+
+ box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: row;
+     flex-wrap: wrap; 
+    gap:40px;
+}
+.stake-layout3{
+width: 570px;
+height: 315px;
+ background-color: rgb(81, 83, 78);
+}
+.stake-layout4{
+
+height: 300px;
+width: 500px;
+ background-color: rgb(4, 0, 255);
+
+  
+}
+.stake-layout5{
+    width: 352.33px;
+    height: 471px;
+    border-radius:10px;
+     background-color: rgb(255, 0, 179);
+}
+.stake-layout6{
+    height: 630px; 
+     width: 352.33px;
+      background-color: rgb(157, 118, 126);
+}

@@ -1,0 +1,41 @@
+.slider-container {
+  width: 100%;
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden;
+   background: linear-gradient(90deg, #023496 0%, #2D7BC7 100%);
+}
+
+.slide {
+  height: 78px;
+ 
+ padding: 0 15px; 
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.slide-text {
+  font-family: 'Poppins', sans-serif;
+  font-size: 36px; 
+  font-weight: 700;
+  margin-top:5%;
+  line-height: 1;
+  text-align: center;
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+}
+.dot-layout {
+  width: 7.51px;
+  height: 7.51px;
+  border-radius: 50%; 
+  background: #FFFFFF;
+  
+display: flex;
+  align-items: center;
+margin-right:30px;
+}
